@@ -11,5 +11,7 @@ Un blog para el curso profesional de Git y Github
 - Nos conectamos a repositorios remotos
 - Trabajamos en equipo
 - Creado por el increíble Daniel Ochoa
+- Incluye ejemplos en Windows, Linux y Mac
+- Disponible para todas la edades
 
 Curso de Platzi.
