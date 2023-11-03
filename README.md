@@ -13,5 +13,6 @@ Un blog para el curso profesional de Git y Github
 - Creado por el increíble Daniel Ochoa
 - Incluye ejemplos en Windows, Linux y Mac
 - Disponible para todas la edades
+- Una modificaciòn en Ubuntu
 
 Curso de Platzi.
